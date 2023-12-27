@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sifra-za-katanac/static/css/main.4692ed2b.css",
-    "main.js": "/sifra-za-katanac/static/js/main.01478aac.js",
-    "index.html": "/sifra-za-katanac/index.html",
-    "main.4692ed2b.css.map": "/sifra-za-katanac/static/css/main.4692ed2b.css.map",
-    "main.01478aac.js.map": "/sifra-za-katanac/static/js/main.01478aac.js.map"
+    "main.css": "/static/css/main.4692ed2b.css",
+    "main.js": "/static/js/main.01478aac.js",
+    "index.html": "/index.html",
+    "main.4692ed2b.css.map": "/static/css/main.4692ed2b.css.map",
+    "main.01478aac.js.map": "/static/js/main.01478aac.js.map"
   },
   "entrypoints": [
     "static/css/main.4692ed2b.css",
