@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a5f3e947.css",
-    "main.js": "/static/js/main.718f890e.js",
+    "main.js": "/static/js/main.399c9bea.js",
     "static/media/santaclause.gif": "/static/media/santaclause.aadf6d4efddb069feb2e.gif",
     "index.html": "/index.html",
     "main.a5f3e947.css.map": "/static/css/main.a5f3e947.css.map",
-    "main.718f890e.js.map": "/static/js/main.718f890e.js.map"
+    "main.399c9bea.js.map": "/static/js/main.399c9bea.js.map"
   },
   "entrypoints": [
     "static/css/main.a5f3e947.css",
-    "static/js/main.718f890e.js"
+    "static/js/main.399c9bea.js"
   ]
 }
